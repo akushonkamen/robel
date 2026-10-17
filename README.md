@@ -7,8 +7,8 @@ simulation (for rapid prototyping) and on real hardware. ROBEL robots are robust
 and scalable - they have facilitated over 14000 hours (as of Aug'19) of
 real-world training with various learning-based methods. Benchmarks using
 several learning-based methods are provided for ease of comparison and
-extensibility. Refer to [ROBEL's webpage](http://roboticsbenchmarks.org) for
-full details.
+extensibility. Refer to the
+[ROBEL paper](https://arxiv.org/abs/1909.11639) for full details.
 
 ## Robot Platforms
 
@@ -48,9 +48,8 @@ fully open-sourced and are available for anyone to build their own robots.
 
 ## 1. Hardware assembly
 
-Please refer to the
-[Hardware Guide](http://roboticsbenchmarks.org/getting-started) for getting
-started with the ROBEL hardware platforms.
+The design of the ROBEL hardware platforms is described in the
+[ROBEL paper](https://arxiv.org/abs/1909.11639).
 
 ## 2. Software installation
 
